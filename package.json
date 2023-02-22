@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@authing/guard-vue2": "^5.1.2"
+  }
+}
